@@ -40,3 +40,25 @@ def input_position():
 
 player1 = input("Player name 1: ")
 player2 = input("Player name 2: ")
+
+for i in range(9):
+    if i % 2 == 0  :
+        # Player 1's turn
+        x = input_position()
+        game_board[x - 1] = 'x'
+        display()
+        if check():
+            print(player1 + ' wins!')
+            break
+        
+    else:
+        # Player 2's turn 
+        x = input_position()
+        game_board[x - 1] = 'o'
+        display()
+        if check():
+            print(player2 + ' wins!')
+            break
+else:
+
+    print('Game over')
