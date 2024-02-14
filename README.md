@@ -52,6 +52,12 @@ Knots-and-Crosses is a game that hopes to encourage people to take a break from 
 
 * All bugs known that occured during testing has been fixed.
 
+## Deployment
+
+
+
+
+
 ## Credits
 
 ### Content
