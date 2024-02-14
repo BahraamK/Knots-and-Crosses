@@ -32,12 +32,29 @@ Knots-and-Crosses is a game that hopes to encourage people to take a break from 
 ![Game Area]()
 * This area shows the progression of the game as the players pick their positions on the board. This area also clearly shows which player has won the game or when the game is over. This makes it very easy to understand what is occuring in the game and at what point it finishes.
 
-
-
-
 ### Feature ideas to implement
 
 * To be able to keep score track
 * A timer showing how long each game lasts
 
 
+## Testing
+
+### General testing
+
+* I used multiple online python IDE to check code runs well and game works
+* I ran the python code in the github terminal and consistently printed to check code came out correctly
+* Confirmed mandatory data fields are not empty
+
+### Bugs
+
+#### Known, Unfixed Bugs
+
+* All bugs known that occured during testing has been fixed.
+
+## Credits
+
+### Content
+
+* The template used was the [CI full template](https://github.com/Code-Institute-Org/p3-template)
+* Some inspiration for the loops came from [W3schools](https://www.w3schools.com/).
