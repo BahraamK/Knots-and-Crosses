@@ -34,9 +34,7 @@ Knots-and-Crosses is a game that hopes to encourage people to take a break from 
 
 ### Feature ideas to implement
 
-* To be able to keep score track
 * A timer showing how long each game lasts
-
 
 ## Testing
 
