@@ -54,9 +54,19 @@ Knots-and-Crosses is a game that hopes to encourage people to take a break from 
 
 ## Deployment
 
-
-
-
+1. Create Heroku account and login.
+2. Click create a new app.
+3. Click drop down bar and choose the region you are located.
+4. Create an available name then click Create app.
+5. Click on settings tab.
+6. Click reveal Config Vars and add the keys and values neccessary.
+7. Click add buildpack.
+8. Add python and then add nodejs.
+9. Scroll up and selec the Deploy tab.
+10. Click Github as deployment method then click connect to Github.
+11. Search for repository name then click Connect.
+12. Scroll down and click automatic deploy.
+13. Click deploy branch then app can be viewed.
 
 ## Credits
 
