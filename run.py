@@ -37,3 +37,6 @@ def input_position():
         return input_position()
     else:
         return x
+
+player1 = input("Player name 1: ")
+player2 = input("Player name 2: ")
