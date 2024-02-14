@@ -66,8 +66,8 @@ def game():
     else:
 
         print('Game over')
-        
-    Repeat = input('Would you like to restart?').lower()
+    # Give player choice of continuation
+    Repeat = input('Would you like to restart?\n').lower()
     if Repeat == 'yes':
         game()
     else:

@@ -30,7 +30,7 @@ Knots-and-Crosses is a game that hopes to encourage people to take a break from 
 * #### Game Area
 
 ![Game Area](images/gamearea.png)
-* This area shows the progression of the game as the players pick their positions on the board. This area also clearly shows which player has won the game or when the game is over. This makes it very easy to understand what is occuring in the game and at what point it finishes.
+* This area shows the progression of the game as the players pick their positions on the board. This area also clearly shows which player has won the game or when the game is over. An option to restart is also given to allow the player to continue or stop the game.
 
 ### Feature ideas to implement
 
