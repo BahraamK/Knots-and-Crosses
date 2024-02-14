@@ -28,3 +28,12 @@ def check():
         return True        
     else:
         return False
+
+def input_position():
+    # Allows for only valid input position from the user
+    x = int(input("Enter the position:"))
+    if game_board[x - 1] != '-':
+        print("Value already exists, please enter a new value:")
+        return input_position()
+    else:
+        return x
