@@ -19,17 +19,17 @@ Knots-and-Crosses is a game that hopes to encourage people to take a break from 
 
 * #### Game-board Example
 
-![Game-board Example]()
+![Game-board Example](images/gamearea.png)
  * This section clearly demonstrates to users the values that correspond ot the position on the game-board. This makes it clear what buttons are needed to play the game.
 
 * #### Player Names
 
-![Player Names]()
+![Player Names](images/playername.png)
 * This area allows for the input of each players name which will then be used later to specify who has won the game.
 
 * #### Game Area
 
-![Game Area]()
+![Game Area](images/gamearea.png)
 * This area shows the progression of the game as the players pick their positions on the board. This area also clearly shows which player has won the game or when the game is over. This makes it very easy to understand what is occuring in the game and at what point it finishes.
 
 ### Feature ideas to implement
